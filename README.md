@@ -5,4 +5,4 @@
 
 My live page: https://YOUR-GITHUB-USERNAME.github.io/bmis235-html-2/
 
-Instructions: https://gu-27.github.io/html-module/html-2.html
+Instruction: https://gu-27.github.io/html-module/html-2.html
